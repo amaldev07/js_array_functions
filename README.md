@@ -13,6 +13,6 @@ let popped = fruit.pop();
 after this operation 'tomato' will be removed from the array 
 so the array become as below
 // fruit : ['apple', 'orange', 'banana'];
-------------------------------
+----------------------------------------
 create an array with 26 elements and fille with 0 values
 let ar = new Array(26).fill(0);
